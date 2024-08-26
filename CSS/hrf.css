@@ -1,0 +1,18 @@
+
+*{
+    padding:0px;
+    margin:0px;
+    height:4pc;
+    
+}
+.nav{
+color:white;
+display:flex;
+background:#333;
+width:100%;
+justify-content:space-around;
+
+}
+.nav a{
+color:white;
+}
